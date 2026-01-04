@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tylergehm/post-install-config/main/osticketlogo.jpg" alt="GitHub banner" style="max-width:100%;height:auto;" />
-</p>
 
 <h1>osTicket - Building  osTicket Support Ticketing System from scratch</h1>
 osTicket is a widely-used open-source support ticketing system that streamlines customer service by routing inquiries from email, web forms, and phone calls into a simple, multi-user web-based platform, enabling agents to efficiently track, prioritize, and resolve issues while automating workflows like ticket assignment and notifications. 
@@ -11,7 +8,6 @@ This Azure project focuses on deploying and configuring osTicket on a virtual ma
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: osTicket - Building osTicket Support Ticketing System from scratch](https://youtu.be/3rf6qRmcQwg)
 
 <h2>Environments and Technologies Used</h2>
 
